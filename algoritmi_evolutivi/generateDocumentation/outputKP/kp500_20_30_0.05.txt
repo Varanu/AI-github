@@ -1,0 +1,7 @@
+populationSize = 500
+genSize = 20
+p = 30
+pm = 0.05
+Average value 692.2
+Best value 726
+Time 22.3424
