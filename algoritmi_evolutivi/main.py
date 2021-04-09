@@ -4,7 +4,7 @@ from generateDocumentation.generateKP import generateKP
 
 
 def main():
-    fisier = "/Users/andreivaran/PycharmProjects/algoritmi_evolutivi/rucsac-20.txt"
+    fisier = "rucsac-20.txt"
     n, v, w, W = citire_fisier_kp(fisier)
     populationSize = 100
     genNr = 50
